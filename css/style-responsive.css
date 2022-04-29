@@ -1,0 +1,16 @@
+@media only screen and (max-width: 768px) {
+  .custom-progress .progress {
+    min-width: 16rem;
+  }
+  .hide-mobile {
+    display: none;
+  }
+  .body-parts-btn .btn {
+    margin: 6px;
+  }
+
+  .center-box img {
+    width: 7rem;
+    margin-top: -3rem;
+  }
+}
